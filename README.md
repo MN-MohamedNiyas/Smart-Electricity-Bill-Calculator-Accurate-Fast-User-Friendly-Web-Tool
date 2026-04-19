@@ -6,7 +6,7 @@ A simple and interactive web-based tool designed to calculate electricity bills 
 
 1. Download all project files
 2. Open any online HTML, CSS, JS compiler
-3. Copy and paste the respective code into each section
+3. Copy and paste the HTML code into html section
 4. Run the program
 
 ⚠️ Note: Do not modify the code structure to ensure proper functionality.
